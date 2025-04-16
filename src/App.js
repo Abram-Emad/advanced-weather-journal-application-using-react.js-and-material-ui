@@ -91,8 +91,7 @@ function App() {
       i18n.changeLanguage("en");
       moment.locale("en");
     }
-    setDateAndTime(moment().format("MMMM Do YYYY, h:mm:ss a"));
-  }
+}
 
   useEffect(() => {
     i18n.changeLanguage(locale);
