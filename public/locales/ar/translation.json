@@ -1,0 +1,17 @@
+{
+  "Please enter the city's latitude and longitude": "من فضلك قم بادخال خطوط الطول والعرض لمدينك",
+  "min": "الصغرى",
+  "max": "الكبرى",
+  "clear sky": "سماء صافية",
+  "few clouds": "غيوم قليلة",
+  "scattered clouds": "غيوم متفرقة",
+  "broken clouds": "غيوم متقطعة",
+  "shower rain": "أمطار غزيرة",
+  "rain": "مطر",
+  "thunderstorm": "عاصفة رعدية",
+  "snow": "ثلج",
+  "mist": "ضباب",
+  "Longitude": "خط الطول",
+  "latitude": "خط العرض",
+  "Get weather data": "جلب بيانات الطقس"
+}
