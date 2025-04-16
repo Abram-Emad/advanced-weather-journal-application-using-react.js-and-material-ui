@@ -57,11 +57,7 @@ const LatitudeAndLongitudeInputs = ({
             }}
           />
         </Grid>
-        <Grid
-          xs={4}
-          display='flex'
-          justifyContent='space-around'
-          alignItems='center'>
+        <Grid xs={4}>
           <Button
             onClick={() => {
               handleSubmitClick();
