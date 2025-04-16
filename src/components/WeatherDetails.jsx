@@ -7,11 +7,7 @@ import Button from "@mui/material/Button";
 import NightsStayTwoToneIcon from "@mui/icons-material/NightsStayTwoTone";
 
 // EXTERNAL LIBRARIES
-import moment from "moment";
-import "moment/min/locales";
 import { useTranslation } from "react-i18next";
-
-moment.locale("ar");
 
 const WeatherDetails = ({
   direction,
