@@ -65,7 +65,6 @@ function App() {
           city: `${response.data.name}  ${sys.country}`,
           description: weather[0].description,
         });
-        console.log(response);
       } catch (error) {
         console.error("An unexpected error occurred:", error);
       }
