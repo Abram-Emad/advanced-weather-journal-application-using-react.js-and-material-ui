@@ -27,7 +27,7 @@ const LatitudeAndLongitudeInputs = ({
         {t("Please enter the city's latitude and longitude")}
       </Typography>
       <div className='latitude-and-longitude-inputs'>
-        <Grid xs={8} container direction='column'>
+        <Grid size={8} container direction='column'>
           <TextField
             className='latitude-and-longitude-input'
             color='success'
@@ -57,7 +57,7 @@ const LatitudeAndLongitudeInputs = ({
             }}
           />
         </Grid>
-        <Grid xs={4}>
+        <Grid size={4}>
           <Button
             onClick={() => {
               handleSubmitClick();
